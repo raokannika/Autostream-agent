@@ -9,7 +9,7 @@ A conversational AI agent built for AutoStream — a fictional SaaS video editin
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/autostream-agent.git
+git clone https://github.com/raokannika/autostream-agent.git
 cd autostream-agent
 ```
 
