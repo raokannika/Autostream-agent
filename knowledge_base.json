@@ -1,0 +1,71 @@
+{
+  "company": {
+    "name": "AutoStream",
+    "tagline": "Automated video editing tools for content creators",
+    "description": "AutoStream is a SaaS platform that uses AI to automate video editing workflows, helping YouTube and social media creators produce professional content faster."
+  },
+  "pricing": [
+    {
+      "plan": "Basic Plan",
+      "price_monthly": 29,
+      "price_label": "$29/month",
+      "features": [
+        "10 videos per month",
+        "720p resolution export",
+        "Basic auto-cut and trim",
+        "Email support"
+      ],
+      "limitations": [
+        "No AI captions",
+        "No 4K export",
+        "Support hours: business days only"
+      ]
+    },
+    {
+      "plan": "Pro Plan",
+      "price_monthly": 79,
+      "price_label": "$79/month",
+      "features": [
+        "Unlimited videos per month",
+        "4K resolution export",
+        "AI-powered captions",
+        "Priority 24/7 support",
+        "Advanced AI scene detection",
+        "Custom branding overlays"
+      ],
+      "limitations": []
+    }
+  ],
+  "policies": [
+    {
+      "topic": "Refund Policy",
+      "detail": "No refunds are issued after 7 days from the date of purchase. Refunds within the first 7 days are reviewed on a case-by-case basis."
+    },
+    {
+      "topic": "Support Policy",
+      "detail": "24/7 customer support is available exclusively for Pro plan subscribers. Basic plan subscribers receive support during business hours only."
+    },
+    {
+      "topic": "Trial Policy",
+      "detail": "AutoStream does not currently offer a free tier. New users may request a personalised demo by speaking with our sales team."
+    },
+    {
+      "topic": "Cancellation Policy",
+      "detail": "Subscriptions can be cancelled at any time. Access continues until the end of the current billing cycle."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What platforms does AutoStream support for export?",
+      "answer": "AutoStream supports direct export optimised for YouTube, Instagram Reels, TikTok, and standard MP4 formats."
+    },
+    {
+      "question": "Can I upgrade from Basic to Pro?",
+      "answer": "Yes, you can upgrade from Basic to Pro at any time. The price difference is prorated for the remaining days in your billing cycle."
+    },
+    {
+      "question": "Does AutoStream work with raw footage?",
+      "answer": "Yes, AutoStream accepts raw footage in common formats including MP4, MOV, and AVI."
+    }
+  ]
+}
